@@ -54,7 +54,7 @@ def wishMe():
         speak("Good Afternoon Sir!")
     else:
         speak("Good Evening Sir!")
-    speak("Hi Sir , I am Friday , Welcome to the the world of AI and Machine Learning")
+    speak("Hi Sir , I am Astra , Welcome to the the world of AI and Machine Learning")
 
 
 chrome_path = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
