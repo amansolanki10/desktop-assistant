@@ -43,26 +43,29 @@ Refer to the Commands List section in this README for a comprehensive list of av
 
 Commands List
 General Commands
-"Open website": Opens the specified website in the default web browser.
-"Search on Google": Performs a Google search for the given query.
-"What is" / "Who is": Retrieves information from Wikipedia based on the given query.
-"Weather": Fetches the current weather information for the specified location.
-"News": Provides the latest news headlines.
-"Internet speed": Checks the current internet speed.
+"Open website": Opens the specified website in the default web browser.<br>
+"Search on Google": Performs a Google search for the given query.<br>
+"What is" / "Who is": Retrieves information from Wikipedia based on the given query.<br>
+"Weather": Fetches the current weather information for the specified location.<br>
+"News": Provides the latest news headlines.<br>
+"Internet speed": Checks the current internet speed.<br>
+
 System Control
-"Shutdown" / "Restart" / "Sleep" / "Lock": Performs the corresponding system operation.
-"Volume up" / "Volume down": Adjusts the system volume.
-"Maximize" / "Minimize" / "Show all windows": Manages window operations.
+"Shutdown" / "Restart" / "Sleep" / "Lock": Performs the corresponding system operation.<br>
+"Volume up" / "Volume down": Adjusts the system volume.<br>
+"Maximize" / "Minimize" / "Show all windows": Manages window operations.<br>
+
 Utility Functions
-"Dictionary": Looks up the meaning of a word in the dictionary.
-"Translate": Translates the given text to the specified language.
-"Send message" / "Send email": Sends messages or emails to specified contacts.
+"Dictionary": Looks up the meaning of a word in the dictionary.<br>
+"Translate": Translates the given text to the specified language.<br>
+"Send message" / "Send email": Sends messages or emails to specified contacts.<br>
+
 Automation
-"Play" / "Pause" / "Next song" / "Previous song": Controls media playback.
-"Open incognito mode": Opens Chrome browser in incognito mode.
-"Screenshot": Captures and saves a screenshot.
+"Play" / "Pause" / "Next song" / "Previous song": Controls media playback.<br>
+"Open incognito mode": Opens Chrome browser in incognito mode.<br>
+"Screenshot": Captures and saves a screenshot.<br>
+
 Contributing
 Contributions to improve and extend the functionality of Astra are welcome! Please fork the repository, make your changes, and submit a pull request.
 
-License
-This project is licensed under the MIT License.
+
